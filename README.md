@@ -20,9 +20,9 @@ To run the calculator:
 
 📁 File Structure
 .
-├── index.html        # Main calculator interface and logic
-├── style.css         # Styling for the layout and buttons
-└── README.md         # Project documentation
+index.html    # Main calculator interface and logic
+style.css     # Styling for the layout and buttons
+README.md     # Project documentation
 
 🛠️ How It Works
 
